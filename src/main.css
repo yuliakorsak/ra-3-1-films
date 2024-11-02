@@ -1,0 +1,20 @@
+body {
+  background-color: #faf7f2;
+}
+
+#root {
+  padding: 30px;
+  background-color: #ffffff;
+}
+
+.card-body-stars {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: flex-start;
+}
+
+.card-body-star {
+  display: inline-block;
+  list-style: none;
+}
