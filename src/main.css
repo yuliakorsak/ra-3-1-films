@@ -12,9 +12,13 @@ body {
   flex-direction: row;
   flex-wrap: nowrap;
   justify-content: flex-start;
+  margin: 0;
+  padding: 0;
 }
 
 .card-body-star {
   display: inline-block;
   list-style: none;
+  margin: 0;
+  padding: 0;
 }
